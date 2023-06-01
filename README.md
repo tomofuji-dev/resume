@@ -1,6 +1,6 @@
 # Resume
 
-## 個人データ
+## 基本情報
 
   * 氏名:  藤原智也 
   * mail: `tomofuji-dev@gmail.com`
