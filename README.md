@@ -14,7 +14,7 @@
     * CPU、OSなど低レイヤ寄りな知識から学習
 
   * [HTTPサーバー](https://github.com/NaoyaFukuma/webserv)
-    * ConfigのParse、ルーティング、Epollを使ったSocket通信、RequestのParse、Responseの生成
+    * ConfigのParse、ルーティング、Socket通信、Epollでのイベント駆動、RequestのParse、Responseの生成
     * RFCを元にHTTP仕様を実装
     * C++
     * 3人チーム、Github Flow
