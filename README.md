@@ -41,7 +41,6 @@
           * [Linuxのしくみ](https://www.amazon.co.jp/dp/B0BG8J5QJ1)
           * [CSAPP](https://www.amazon.co.jp/dp/013409266X)
       * LeetCode
-          * 各種アルゴリズムの学習
           * easy ~ mediumの典型問題を網羅
           * https://1kohei1.com/leetcode/
       * CTF
