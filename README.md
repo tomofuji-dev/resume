@@ -37,7 +37,6 @@
 
   * 勉強会の主催（平日夜、1時間ずつで実施）
       * 輪読会
-          * 書籍から得た知識の共有
           * [Open Data Structures](https://opendatastructures.org/)
           * [Linuxのしくみ](https://www.amazon.co.jp/dp/B0BG8J5QJ1)
           * [CSAPP](https://www.amazon.co.jp/dp/013409266X)
