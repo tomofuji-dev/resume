@@ -36,17 +36,17 @@
     * 2人チーム
 
   * 勉強会の主催（平日夜、1時間ずつで実施）
-    * 輪読会
-     * 書籍から得た知識の共有
-     * [Open Data Structures](https://opendatastructures.org/)
-     * [Linuxのしくみ](https://www.amazon.co.jp/dp/B0BG8J5QJ1)
-     * [CSAPP](https://www.amazon.co.jp/dp/013409266X)
-    * LeetCode
-     * 各種アルゴリズムの学習
-     * easy ~ mediumの典型問題を網羅
-     * https://1kohei1.com/leetcode/
-    * CTF
-     * アセンブリなど、低レイヤの学習のために実施
+      * 輪読会
+          * 書籍から得た知識の共有
+          * [Open Data Structures](https://opendatastructures.org/)
+          * [Linuxのしくみ](https://www.amazon.co.jp/dp/B0BG8J5QJ1)
+          * [CSAPP](https://www.amazon.co.jp/dp/013409266X)
+      * LeetCode
+          * 各種アルゴリズムの学習
+          * easy ~ mediumの典型問題を網羅
+          * https://1kohei1.com/leetcode/
+      * CTF
+          * アセンブリなど、低レイヤの学習のために実施
 
 ## 使用可能言語・技術
 
