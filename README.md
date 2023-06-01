@@ -25,7 +25,7 @@
 
   * [Ray Tracing](https://github.com/tomofuji-dev/ft_minirt)
     * X Window Systemを使った3DCGのレンダリング
-    * Phong model、　複数光源、checker boardなどの実装
+    * Phong model、複数光源、checker boardなどの実装
     * C言語
     * 2人チーム
 
