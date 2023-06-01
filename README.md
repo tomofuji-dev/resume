@@ -30,7 +30,7 @@
     * 2人チーム
 
   * [Shellの自作](https://github.com/tomofuji-dev/ft_minishell)
-    * Bashの再実装： Tokenizer、Parser、Expansion、Pipes、Redirections、Signal
+    * Bashの再実装： パイプ、リダイレクト、環境変数の展開、シグナルなど
     * man bash、TLPIなどの参照
     * C言語
     * 2人チーム
