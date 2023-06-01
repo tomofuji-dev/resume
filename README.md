@@ -2,7 +2,7 @@
 
 ## 個人データ
 
-  * 氏名： 藤原智也 
+  * 氏名:  藤原智也 
   * mail: `tomofuji-dev@gmail.com`
 
 ## プロジェクト
